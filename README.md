@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manas Reddy Arumalla</h1>
 <h3 align="center">A passionate Robotics Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.graphicmama.com/uploads/2023/3/6414793b7befa-602a4f0ed6583-Flying%20Robot%20Cartoon%20Animated%20GIFs.gif">
+<img align="right" alt="Coding" width="300" src="https://i.graphicmama.com/uploads/2023/3/6414793b7befa-602a4f0ed6583-Flying%20Robot%20Cartoon%20Animated%20GIFs.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas-arumalla&label=Profile%20views&color=0e75b6&style=flat" alt="manas-arumalla" /> </p>
 

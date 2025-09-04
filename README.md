@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas-arumalla&label=Profile%20views&color=0e75b6&style=flat" alt="manas-arumalla" /> </p>
 
-- 🔭 I’m currently working on **Self balancing robot**
-
-- 🌱 I’m currently learning **Image Processing and Computer vision**
+- 🔭 I like building **robots**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
